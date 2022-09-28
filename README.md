@@ -1,8 +1,12 @@
-#codingapple_homework
+# codingapple_homework
 
 코딩애플 html/css 강좌 숙제
 
-##9/28 email box
+## 9/28 email box
+
+![image](https://user-images.githubusercontent.com/58897994/192759972-6180a4cd-c28a-4aa9-9909-632080140d36.png)
+
+이거 만드는거임 ㅇㅇ
 
 가끔 css가 js보다 어렵다는 생각이 든다..
 
@@ -51,4 +55,12 @@
 }
 ```
 
-js에서 변수,함수이름 짓는거랑 class 네임 짓는게 제일 힘들었음.
+![image](https://user-images.githubusercontent.com/58897994/192759935-f1ba4da3-7286-432f-a689-127a75f504f1.png)
+
+js에서 변수,함수이름 짓는거랑 class 네임 짓는게 ~~쥰내~~ 조금 힘들었음
+
+아직 혼자서 div 정하고 틀잡는걸 잘못하겠음
+
+input 스타일링은 구글링함
+
+아직 padding이랑 margin 이 너무 헷갈림
