@@ -1,0 +1,154 @@
+/* img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+} */
+
+.box {
+  width: auto;
+  text-align: center;
+  height: auto;
+  background: lightslategrey;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 10px;
+  border: 2px;
+  border-radius: 15px;
+  font-size: 15px;
+  box-shadow: 5px 5px;
+}
+
+
+.container {
+  width: 800px;
+  display: block;
+  margin: auto;
+}
+
+.blog {
+  width: 80%;
+  float: left;
+}
+
+.profile {
+  width: 100%;
+  height: 50px;
+}
+
+.image {
+  width: 30px;
+  display: block;
+  margin-top: 10px;
+  float: left;
+}
+
+
+.name {
+  float: left;
+}
+
+.content {
+  width: 100%;
+  height: 160px;
+  clear: both;
+}
+
+.img {
+  width: 20%;
+  float: left;
+}
+
+.navbar > li {
+  display: inline-block;
+  width: 60px;
+  text-align: center;
+  background-color: #eee;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.navbar li a {
+  font-size: 16px;
+  text-decoration: none;
+  color: rgb(32, 136, 119);
+}
+
+.main-background {
+  width: 100%;
+  height: 500px;
+  background-image: url(./img/banner.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  padding: 1px;
+}
+
+.main-title {
+  color: white;
+  font-size: 40px;
+  margin-top: 200px;
+  text-align: center;
+}
+
+.letter {
+  color: white;
+  font-size: 15px;
+  text-align: center;
+}
+
+.button {
+  padding: 15px 25px;
+  background-color: white;
+  border: none;
+  border-radius: 5px;
+  color: black;
+  text-align: center;
+  text-decoration: none;
+  font-size: 20px;
+  cursor: pointer;
+  position: absolute;
+  left: 0;
+  right: 0;
+  margin-left: auto;
+  margin-right: auto;
+  width: 160px;
+}
+
+.ff {
+  width: 80%;
+  max-width: 600px;
+  margin: auto;
+  background-color: #eee;
+  text-align: center;
+  padding: 20px;
+  position: relative;
+  bottom: 60px;
+}
+
+.e_background {
+  background-color: rgb(39, 39, 39);
+  padding: 30px;
+}
+
+.e_box {
+  padding: 30px;
+  width: 80%;
+  max-width: 600px;
+  background-color: white;
+  margin: auto;
+}
+
+.e_title_box {
+  width: 80%;
+}
+
+.e_input {
+  width: 100%;
+  height: 40px;
+  border-radius: 5px;
+  font-size: 20px;
+  padding: 0px 20px;
+  border: 2px solid lightgray;
+  outline: none;
+}
